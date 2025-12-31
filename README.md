@@ -176,7 +176,7 @@ Virtual environment (recommended)
 
 Setup
 ```
-git clone <your-repo-url>
+git clone https://github.com/Anusha266/pastebin.git
 cd pastebin_lite
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
